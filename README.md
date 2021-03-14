@@ -1,6 +1,6 @@
 # LoL Match Result Prediction
 
-*This is a work in progress.*
+*This is a work in progress. Feel free to contact me for details if interested.*
 
 League of Legends (LoL) is one of the most widely played video games in the world. The game consits of two teams of five players, each occupying and defending their own half of the map. The primary objective is to destroy the opposing team's Nexus, which is located in each team's base.
 
@@ -22,7 +22,7 @@ Our data was acquired from the [Riot Games API](https://developer.riotgames.com/
 
 ## Methods
 
-Our features the gold gained by each team in the first 20 minutes of the match, which can be treated as a (multivariate) time series classification problem. We tried various models and evaluated their performance.
+Our features are the gold gained by each team in the first 20 minutes of the match, which can be treated as a (multivariate) time series classification problem. We implemented various models and evaluated their performance.
 
 **General Classification Models**
 * Decision Tree
@@ -42,4 +42,4 @@ Our features the gold gained by each team in the first 20 minutes of the match, 
 
 ## Conclusion
 
-*TODO: A LOT*
+*In progress*
