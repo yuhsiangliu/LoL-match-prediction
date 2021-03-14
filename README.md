@@ -6,7 +6,7 @@ League of Legends (LoL) is one of the most widely played video games in the worl
 
 There are many factors influencing the match result, which includes pre-game knowledge (such as individual player's skill and players choice of game characters) and in-game player statistics. In this project, we focus solely on the gold (in-game currency) gained by each team. It is not surprising that the team with a gold lead has a strong advantage, but it doesn't always result in a win.
 
-*TODO: Add graphs of two matches having the same lead at 20 minutes but one won and one lost.*
+![alt text](plot/trend_5000at20.png)
 
 The ultimate goal of this project is to
 1. determine whether there exists a hidden pattern for teams that were in lead but lose the match in the end;
