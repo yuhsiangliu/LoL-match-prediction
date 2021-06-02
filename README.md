@@ -1,7 +1,5 @@
 # LoL Match Result Prediction
 
-*This is a work in progress. Feel free to contact me for details if interested.*
-
 League of Legends (LoL) is one of the most widely played video games in the world. The game consits of two teams of five players, each occupying and defending their own half of the map. The primary objective is to destroy the opposing team's Nexus, which is located in each team's base.
 
 There are many factors influencing the match result, which includes pre-game knowledge (such as individual player's skill and players choice of game characters) and in-game player statistics. In this project, we focus solely on the gold (in-game currency) gained by each team. It is not surprising that the team with a gold lead has a strong advantage, but it doesn't always result in a win.
@@ -39,7 +37,3 @@ Our features are the gold gained by each team in the first 20 minutes of the mat
 * Fully-connected Feed-forward Neural Network
 * Convolutional Neural Network
 * Recurrent Neural Network
-
-## Conclusion
-
-*In progress*
